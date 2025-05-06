@@ -15,7 +15,7 @@ Welcome to Rust journey! This repository is a collection of my explorations, pro
 This repository is a personal log of my progress in learning Rust. It includes:
 
 - Small practice exercises
-- Larger projects that showcase specific Rust features (Coming soon!)
+- Larger projects that showcase specific Rust features
 - Links to useful resources and tutorials
 
 ## Why Rust?
@@ -34,6 +34,8 @@ Here's a list of projects I've worked on so far:
 2. **Nth Fibonacci**: A command-line program that generates the `nth` fibonacci number inspired by the Rust book.
 3. **Temperature Converter**: A command-line temperature converter inspired by the Rust book.
 4. **Twelve Days of Christmas Lyrics**: A simple program that prints out the lyrics of the "Twelve Days of Christmas" song.
+5. **Minigrep**: A command-line program that searches for a query string in a file and prints out the lines that contain it.
+6. **Multi-Threaded Web Server**: A multi-threaded web server that can handle concurrent requests.
 
 ## Learning Resources
 
